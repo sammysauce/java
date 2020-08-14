@@ -10,7 +10,7 @@ public class Array2 {
         a[0][2] = 1;
         a[1][0] = 7;
         a[1][1] = 6;
-        a[1][2] = 8;
+        a[1][2] = 579;
 
        // System.out.println(a[1][2]);
 

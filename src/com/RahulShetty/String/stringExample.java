@@ -12,7 +12,7 @@ public class stringExample {
         System.out.println(ab + "  " + a);
         System.out.println(ab.length() + " " + a.length());
         System.out.println(ab.replace("a","4"));
-        System.out.println(a.charAt(2));
+        System.out.println(a.charAt(5));
         System.out.println(ab.substring(4,9));
     }
 }
