@@ -1,6 +1,4 @@
-package com.RahulShetty;
-
-import com.RahulShetty.String.secondclass;
+package com.RahulShetty.String;
 
 public class Main {
 
